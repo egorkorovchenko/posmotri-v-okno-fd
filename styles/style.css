@@ -143,6 +143,7 @@ html {
   background-color: transparent;
   color: #fff;
   font-size: 18px;
+  font-family: "Fira Sans Condensed", sans-serif;
   text-align: center;
   border-width: 1px;
   border-style: solid;
@@ -156,7 +157,7 @@ html {
 
 .more-button {
   width: calc(100% - 4px);
-  margin-top: 30px;
+  margin: 30px 0 2px 2px;
 }
 
 .button:hover {
